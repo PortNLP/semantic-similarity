@@ -7,6 +7,7 @@ This repository contains the code implementation for the research paper titled "
 All necessary installations have already been mentioned in the notebooks. Once you have installed the dependencies, proceed to run the cells as required.
 
 ### How to run with your data?
+
 If you want to use your own data, convert them into Hugging Face's <a href="https://huggingface.co/docs/datasets/package_reference/main_classes#datasets.DatasetDict"> DatasetDict</a> and it should be easy to follow the example given.
 
 ## Cite our Work
@@ -21,7 +22,6 @@ Should you discover this project valuable for your research, please cite our pap
     year = "2023",
     publisher = "Association for Computational Linguistics",
 }
-
 ```
 
 ---
